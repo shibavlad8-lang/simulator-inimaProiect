@@ -1,0 +1,2 @@
+# simulator-inimaProiect
+proiect
